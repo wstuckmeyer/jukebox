@@ -1,0 +1,12 @@
+#controlls-all{
+	display: none;
+}
+#startBtn{
+	left:35%;
+}
+#controlls-all{
+	left:50%;
+}
+.first{
+	height:40vh;
+}
