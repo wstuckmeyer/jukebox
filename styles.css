@@ -1,12 +1,38 @@
-#controlls-all{
-	display: none;
+body{
+	background-color: #8e24aa ;
 }
+
 #startBtn{
-	left:35%;
+	top:30vh;
+	margin-left:8vw;
 }
 #controlls-all{
 	left:50%;
+	top:50vh;
+	display:none;
+	width:50%;
 }
 .first{
 	height:40vh;
+}
+#playing{
+	text-align: center;
+}
+#play, #pause, #skip{
+	text-align: center;
+}
+#card-buttons{
+	box-shadow: 0 0 10px black;
+}
+
+img{
+	margin-left:33vw;
+	width:30%;
+}
+#card-songs{
+	display:none;
+	box-shadow: 0 0 20px black;
+}
+#skip{
+	float:right;
 }
